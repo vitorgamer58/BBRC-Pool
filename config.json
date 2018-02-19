@@ -1,7 +1,7 @@
 {
     "coin": "Blood Donation",
     "symbol": "BBR",
-    "coinUnits": 18446744,
+    "coinUnits": 1000000000000,
     "coinDifficultyTarget": 120,
 
     "logging": {
