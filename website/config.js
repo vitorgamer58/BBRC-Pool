@@ -1,8 +1,8 @@
-var api = "http://poolhost.com:8117";
+var api = "http://bbr-pool.ddns.net:8117";
 
-var api_blockexplorer = "http://daemonhost.com:34132";
+var api_blockexplorer = "http://bbr-pool.ddns.net:34132";
 
-var poolHost = "poolhost.com";
+var poolHost = "bbr-pool.ddns.net";
 
 var irc = "irc.freenode.net/#poolhost";
 
