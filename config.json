@@ -19,7 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "",
+        "poolAddress": "BLZhXvi2rhXDJMjvM38zt5EmwSh9jjejWYX1rMmjMdoxFRYSCozKGsQJjU5sSrU4VncPhBMYqKwMDffRoJzQKE9L2u7QQfT",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
         "ports": [
