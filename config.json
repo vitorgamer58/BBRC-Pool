@@ -80,12 +80,12 @@
     "payments": {
         "enabled": true,
         "interval": 600,
-        "maxAddresses": 50,
+        "maxAddresses": 100,
         "mixin": 1,
         "transferFee": 50000000,
-        "minPayment": 1000000000,
+        "minPayment": 100000000000,
         "maxTransactionAmount": 0,
-        "denomination": 1000000000
+        "denomination": 100000000000
     },
 
     "blockUnlocker": {
