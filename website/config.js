@@ -19,9 +19,10 @@ var transactionExplorer = "http://chainradar.com/{symbol}/transaction/{id}";
 var themeCss = "themes/default-theme.css";
 
 var networkStat = {
-    "bcn": [
-        ["bcn.mypool.online", "http://bcn.mypool.online:8084"],
-        ["democats.org", "http://pool.democats.org:7603"]
+    "bbr": [
+        ["bbrpool.info", "http://bbrpool.info:8117],
+        ["bbrc-pool.ddns.net", "http://bbrc-pool.ddns.net:8117],
+        ["bbr.4miner.me", "http:/api-bbr.4miner.me:8120"]
     ],
     "bip": [
         ["bip.mypool.online", "http://bip.mypool.online:18874"],
