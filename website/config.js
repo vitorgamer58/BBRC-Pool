@@ -26,7 +26,8 @@ var networkStat = {
     "bbrc": [
         ["bbrpool.info", "http://bbrpool.info:8117],
         ["bbrc-pool.ddns.net", "http://bbrc-pool.ddns.net:8117],
-["bbr.4miner.me", "http:/api-bbr.4miner.me:8120"]
+        ["bbr.4miner.me", "http:/api-bbr.4miner.me:8120"]
+     ],
     "bip": [
         ["bip.mypool.online", "http://bip.mypool.online:18874"],
         ["democats.org", "http://pool.democats.org:7693"],
