@@ -1,8 +1,8 @@
-var api = "http://bbr-pool.ddns.net:8117";
+var api = "http://poolhost.com:8117";
 
-var api_blockexplorer = "http://bbr-pool.ddns.net:34132";
+var api_blockexplorer = "http://daemonhost.com:rpcport";
 
-var poolHost = "bbr-pool.ddns.net";
+var poolHost = "poolhost.com";
 
 var irc = "irc.freenode.net/#poolhost";
 
@@ -19,11 +19,14 @@ var transactionExplorer = "http://chainradar.com/{symbol}/transaction/{id}";
 var themeCss = "themes/default-theme.css";
 
 var networkStat = {
-    "bbr": [
+    "bcn": [
+        ["bcn.mypool.online", "http://bcn.mypool.online:8084"],
+        ["democats.org", "http://pool.democats.org:7603"]
+    ],
+    "bbrc": [
         ["bbrpool.info", "http://bbrpool.info:8117],
         ["bbrc-pool.ddns.net", "http://bbrc-pool.ddns.net:8117],
-        ["bbr.4miner.me", "http:/api-bbr.4miner.me:8120"]
-    ],
+["bbr.4miner.me", "http:/api-bbr.4miner.me:8120"]
     "bip": [
         ["bip.mypool.online", "http://bip.mypool.online:18874"],
         ["democats.org", "http://pool.democats.org:7693"],
